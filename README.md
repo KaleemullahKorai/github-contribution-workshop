@@ -3,56 +3,35 @@ A beginner-friendly repository for learning how to contribute to open-source pro
 
 ## Participants
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<p align="center">
+  <a href="https://github.com/safiullahkorai-786/" target="_blank">
+    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>
+    <br/>Safiullah Korai
+  </a>
+  
+  <a href="https://github.com/safiullahkorai-786/" target="_blank">
+    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>
+    <br/>Safiullah Korai
+  </a>
 
-  <div align="center">
-    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>  
-    <p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
-  </div>
+  <a href="https://github.com/safiullahkorai-786/" target="_blank">
+    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>
+    <br/>Safiullah Korai
+  </a>
 
-  <div align="center">
-    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>  
-    <p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
-  </div>
+  <a href="https://github.com/safiullahkorai-786/" target="_blank">
+    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>
+    <br/>Safiullah Korai
+  </a>
 
-  <div align="center">
-    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>  
-    <p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
-  </div>
+  <a href="https://github.com/safiullahkorai-786/" target="_blank">
+    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>
+    <br/>Safiullah Korai
+  </a>
 
-  <div align="center">
-    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>  
-    <p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
-  </div>
+  <a href="https://github.com/safiullahkorai-786/" target="_blank">
+    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>
+    <br/>Safiullah Korai
+  </a>
 
-  <div align="center">
-    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>  
-    <p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
-  </div>
-
-  <div align="center">
-    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>  
-    <p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
-  </div>
-
-  <div align="center">
-    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>  
-    <p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
-  </div>
-
-  <div align="center">
-    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>  
-    <p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
-  </div>
-
-  <div align="center">
-    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>  
-    <p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
-  </div>
-
-  <div align="center">
-    <img src="https://github.com/Safiullahkorai-786/github-contribution-workshop/blob/main/Photos/Safiullah%20Korai%20(3).png" width="100px" alt="Safiullah Korai"/>  
-    <p><a href="https://github.com/safiullahkorai-786/" target="_blank">Safiullah Korai</a></p>
-  </div>
-
-</div>
+</p>

@@ -7,8 +7,10 @@
 <img src="https://avatars.githubusercontent.com/u/100577588?v=4" width="100px" alt="Safiullah Korai"/>  
 <p><a href="https://github.com/safiullahkorai-786/" target="_blank">YOUR NAME</a></p>  
 
-# B
-  
+## B
+
+  <img src="https://avatars.githubusercontent.com/u/183992195?v=4" width="100px" alt="Kaleemullah Korai"/>  
+<p><a href="https://github.com/kaleemullahkorai/" target="_blank">Kaleemullah Korai</a></p>  
 
 # C
 

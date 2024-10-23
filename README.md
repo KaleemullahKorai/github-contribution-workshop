@@ -1,4 +1,4 @@
-# 🌟 Our Amazing Contributors 🌟
+<h1 align="center">🌟 Our Amazing Contributors 🌟</h1>
 
 # A
 <img src="https://avatars.githubusercontent.com/u/100577588?v=4" width="100px" alt="Safiullah Korai"/>  

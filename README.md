@@ -38,7 +38,7 @@
 # K
 
   <img src="https://avatars.githubusercontent.com/u/183992195?v=4" width="100px" alt="Kaleemullah Korai"/>  
-<p><a href="https://github.com/kaleemullahkorai/" target="_blank">Kaleemullah Korai</a></p>  
+<p><a href="https://github.com/kaleemullahkorai/" target="_blank">Kaleemullah Korai </a></p>  
 
 # L
 
